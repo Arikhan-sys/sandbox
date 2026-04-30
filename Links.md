@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 23:03 IR
+- 📱 [v2rayNG_2.1.4_arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.4_arm64-v8a.apk) `26.8MB`
+
+- 📱 [v2rayNG_2.1.4_armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.4_armeabi-v7a.apk) `27.2MB`
+
+- 📱 [v2rayNG_2.1.4_universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.4_universal.apk) `61.8MB`
+
+---
+
+
 ### 📅 2026-04-30 13:08 IR
 - 📱 [VaydnsVpn-v1.7.7-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.7.7-arm64-v8a.apk) `10.4MB`
 
