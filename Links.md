@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 17:20 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.7.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.7.apk) `18.1MB`
+
+- 📱 [mhrv-rs-android-armeabi-v7a-v1.9.7.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-armeabi-v7a-v1.9.7.apk) `15.8MB`
+
+- 📱 [mhrv-rs-android-universal-v1.9.7.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-universal-v1.9.7.apk) `39.2MB`
+
+---
+
+
 ### 📅 2026-05-02 17:13 IR
 - 📱 [MasterDnsVPN-GG-1.0.9-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.9-arm64-v8a.apk) `13.0MB`
 
