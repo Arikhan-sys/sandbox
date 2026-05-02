@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 17:45 IR
+- 📱 [VaydnsVpn-v1.8.0-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.8.0-arm64-v8a.apk) `10.4MB`
+
+- 📱 [VaydnsVpn-v1.8.0-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.8.0-armeabi-v7a.apk) `10.5MB`
+
+---
+
+
 ### 📅 2026-05-02 17:32 IR
 - 📥 [Shade-1.3.2.dmg](https://github.com/ConfigWireguard/sandbox/raw/main/dl/Shade-1.3.2.dmg) `42.5MB`
 
