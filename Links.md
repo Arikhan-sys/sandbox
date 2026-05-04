@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 23:41 IR
+- 📱 [zyrln-1.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/zyrln-1.1.apk) `22.9MB`
+
+---
+
+
 ### 📅 2026-05-04 17:48 IR
 - 📱 [Psiphon v462 Mod.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/Psiphon%20v462%20Mod.apk) `25.1MB`
 
