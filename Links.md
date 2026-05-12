@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 17:37 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.23.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.23.apk) `18.6MB`
+
+- 📱 [mhrv-rs-android-armeabi-v7a-v1.9.23.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-armeabi-v7a-v1.9.23.apk) `16.2MB`
+
+- 📱 [mhrv-rs-android-universal-v1.9.23.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-universal-v1.9.23.apk) `41.3MB`
+
+- 📥 [mhrv-rs-windows-amd64.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.5MB`
+
+---
+
+
 ### 📅 2026-05-12 09:29 IR
 - 🎬 [amozesh whitedns.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/amozesh%20whitedns.mp4) `7.7MB`
 
