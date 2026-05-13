@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 10:44 IR
+- 📥 [direct-downloader.yml](https://github.com/Arikhan-sys/sandbox/raw/main/dl/direct-downloader.yml) `253KB`
+
+---
+
+
 ### 📅 2026-05-12 17:58 IR
 - 📱 [MattDownloader-v1.0.0.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/MattDownloader-v1.0.0.apk) `30.6MB`
 
